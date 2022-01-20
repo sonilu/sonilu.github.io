@@ -58,7 +58,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: 2Aoxn8AAAAJ&hl # your Google Scholar ID
+scholar_userid: 2Aoxn8AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-4897-7756 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -70,7 +70,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.uni-trier.de/pid/62/6318 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57203842913 # your Scopus profile url
+scopus_url: https://www.scopus.com/authid/detail.uri?authorId=13105758700 # your Scopus profile url
 acm_url: http://portal.acm.org/author_page.cfm?id=81100504985&CFID=54447397&CFTOKEN=21971220 # your ACM profile url
 
 contact_note: >
