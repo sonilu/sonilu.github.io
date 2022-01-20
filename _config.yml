@@ -70,6 +70,8 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.uni-trier.de/pid/62/6318 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
+scopus_url: https://www.scopus.com/authid/detail.uri?authorId=57203842913 # your Scopus profile url
+acm_url: http://portal.acm.org/author_page.cfm?id=81100504985&CFID=54447397&CFTOKEN=21971220 # your ACM profile url
 
 contact_note: >
   Feel free to contact me in spanish, english or french.
