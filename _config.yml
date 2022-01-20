@@ -58,17 +58,17 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: 2Aoxn8AAAAJ&hl # your Google Scholar ID
+orcid_id: 0000-0002-4897-7756 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
+publons_id: G-4038-2014 # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.uni-trier.de/pid/62/6318 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
