@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Here are my publications by categories in reversed chronological order.
 journals_years: [2021, 2020, 2013, 2012, 2009]
-conferences_years: [2020, 2019, 2018, 2013, 2011, 2010, 2009, 2008, 2005, 2004, 2002, 2000]
+conferences_years: [2020, 2019, 2018, 2016, 2014, 2013, 2011, 2010, 2009, 2008, 2005, 2004, 2002, 2000]
 bc_years: [2010]
 nav: true
 ---
