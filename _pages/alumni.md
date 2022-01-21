@@ -6,7 +6,7 @@ title: alumni
 nav: true
 ---
 
-<H1>PhD in Computer Science</H1>
+## PhD in Computer Science
 
 1. [**Luis Martín Sánchez Adame**](https://mexchi.com/){:target="_blank"} - Co-advisor Dr. Beatriz Adriana González Beltrán
    - Thesis title: "Epistemology of Anticipated User Experience: Task, User and Heuristic Approaches".
@@ -37,7 +37,7 @@ nav: true
     - Second Place in the 2014 National Competition of PhD Thesis in Artificial Intelligence organized by [SMIA](http://smia.mx/){:target="_blank"}.
    - Current situation: Scientific Researcher at Siemens, San Francisco CA, USA.
 
-<H1>MSc in Computer Science</H1>
+## MSc in Computer Science
 
 1. **Manuel Hernández León** - Co-advisor Dr. José Guadalupe Rodríguez García
   - Thesis title: "Development of an Intelligent Chatbot, Study Case: Teachers and Students in Secondary School" (in Spanish).
