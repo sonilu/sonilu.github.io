@@ -22,6 +22,8 @@ social: true  # includes social icons at the bottom of the page
 Hello! I'm Sonia, professor in the [Computer Science Department](https://www.cs.cinvestav.mx/){:target="_blank"} at [Cinvestav-IPN](https://www.cinvestav.mx/){:target="_blank"}. My research interests are CSCW and Groupware,
 Ubiquitous Computing, and Human-Computer Interaction.
 
+Since 2007 I'm full-time researcher, and since 2011 I'm part of the National Researchers System (SNI), currently with the distinction of level 1.
+
 ### education
 
 - PhD in Computer Science, [Institut National Polytechnique de Grenoble](https://www.grenoble-inp.fr/){:target="_blank"}, Grenoble, France.
