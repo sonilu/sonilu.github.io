@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Mendoza, Mendoza-Chapa]
-  first_name: [Sonia, S.]
+  last_name: Mendoza
+  first_name: [Sonia, S., Sonia Mendoza-Chapa, S. Mendoza-Chapa]
 
   style: apa
   locale: en
