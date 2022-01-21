@@ -30,8 +30,10 @@ nav: true
 
 {% for y in page.pa_years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f patents -q @*[year={{y}}]* %}
+  {% bibliography -f pa -q @*[year={{y}}]* %}
 {% endfor %}
+
+- Anallely Olivares Toledo and Sonia Mendoza, Patent number: 352343, Name: "Sistema y método para coordinación y sincronización de actividades en un entorno colaborativo", Instituto Mexicano de la Propiedad Industrial, Date of issuance: October 13, 2017, Expiration date: June 27, 2033.
 
 <H1>Conferences</H1>
 
